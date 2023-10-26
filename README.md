@@ -1,4 +1,4 @@
-# E_Commerce# E-Commerce
+# E_Commerce Mobile Application
 
 ## Description
 This project is a cross-platform E-Commerce mobile application that works on both Android and iOS. It's built using React Native with Expo, allowing users to browse products, add them to their cart, and make purchases.
